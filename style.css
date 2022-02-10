@@ -6,19 +6,43 @@ body{
 #container{
     width: 100vw;
     height: 100vh;
-    background-color: red;
     background-image: url(img/fundo.png);
     background-size: cover;
 }
-.content{
-    margin-left: 100px;
-    
 
+    
 }
-figure{
-    margin-left: 100px;
-    margin-top: 70px;
+figure .is-rounded{
+    
+    
 }
 .media-content{
-    margin-top: 70px;
+    padding-top: 120px;
+    margin-left: 90px;
+    width: 500px;
+} 
+    
 }
+.media-content-right{
+    margin-top: 100px;
+    margin-left: 1050px;
+    width: 500px;
+}
+figure img{
+    width: 18rem;
+    border-radius:100%;
+    height: 18rem;
+    margin-left: 750px;
+    margin-top: -20px;
+}
+.message-header{
+    margin-top: 0,4cm;
+    
+}
+.media-content-left{
+    display: flex;
+    margin-top: -15cm;
+    margin-left: 30cm;
+    width: 500px;
+}
+

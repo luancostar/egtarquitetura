@@ -1,5 +1,15 @@
+header{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
 body{
        margin: 0%;
+       font-family: 'Montserrat', sans-serif;
+       font-size: 15px;
+        font-weight: bold;
+       
         
 }
 
@@ -11,14 +21,13 @@ body{
 }
 
     
-}
 figure .is-rounded{
     
     
 }
 .media-content{
-    padding-top: 120px;
-    margin-left: 90px;
+    padding-top: 80px;
+    margin-left: 170px;
     width: 500px;
 } 
     
